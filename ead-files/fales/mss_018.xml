@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_018">mss_018</eadid><filedesc><titlestmt><titleproper>Guide to the My Own Magazine Archive, 1963-1965 <num>MSS.018</num></titleproper><author>Processed by Amber Creger</author></titlestmt><editionstmt><p>This version was derived from My Own Magazine.doc</p></editionstmt><publicationstmt><publisher>Fales Library and Special Collections</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-03-10 09:03:15 -0500</date>.</creation><langusage>Description is in English</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Fales Library and Special Collections</corpname>
+    </repository>
+    <unittitle>My Own Magazine Archive</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">My Own Mag</corpname>
+    </origination>
+    <unitid>MSS.018</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1963/1965" type="inclusive">1963-1965</unitdate>
+    <abstract id="aspace_1f23815afe61fa5b1e0e816e233c127c">The My Own Magazine Archive contains correspondence and submissions made to the editor, Jeff Nuttall. Submissions included are manuscripts from William Burroughs, Robert Creeley, Lawrence Ferlinghetti, and Allen Ginsberg. This collection also incorporates The Moving Times, a magazine edited by William Burroughs.</abstract>
+    <langmaterial id="aspace_2bd0f3329528719020e90114e3b1c614">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_7e2fe9b7ded2f983d3fe5e05f450983c">
+    <head>Conditions Governing Access</head>
+<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
+  <prefercite id="aspace_225908761c081e337d65f2b1be73adbc">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form:<lb/><lb/>Identification of item, date (if known); My Own Magazine Archive; MSS 018; box number; folder number; <address><addressline>Fales Library and Special Collections</addressline></address> , New York University Libraries.</p>  </prefercite>
+  <bioghist id="aspace_647b0edd1797585645ba082e945e915f">
+    <head>Historical Note</head>
+<p>The My Own Magazine Archive is a collection of correspondence, manuscripts, and issues of the magazine, edited by Jeff Nuttall. This archive also incorporates the magazine The Moving Times, edited by William Burroughs.</p>  </bioghist>
+  <scopecontent id="aspace_c8c12055f676143b343d5885b841a603">
+    <head>Scope and Contents</head>
+<p>The My Own Magazine Archive contains correspondence and submissions made to the editor, Jeff Nuttall. Submissions included are manuscripts from William Burroughs, Robert Creeley, Lawrence Ferlinghetti, and Allen Ginsberg. This collection also incorporates The Moving Times, a magazine edited by William Burroughs.</p>  </scopecontent>
+  <arrangement id="aspace_f08ce4077ddaef0428ad4a7222e2502f">
+    <head>Arrangement</head>
+<p>The collection is arranged in alphabetical and chronological order.</p>    <list numeration="arabic" type="ordered">
+      <item>Series I: Correspondence and Manuscripts</item>
+      <item>Series II: Issues</item>
+    </list>
+  </arrangement>
+  <separatedmaterial id="aspace_9bf03677316c0d5840d9ba00afe06e36">
+    <head>Separated Material</head>
+<p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>  </separatedmaterial>
+  <userestrict id="aspace_6233eef82c171f50bfbe587127f262a0">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">New York (N.Y.).</geogname>
+    <genreform source="aat">Manuscripts for publication.</genreform>
+    <genreform source="aat">Magazines (Periodicals)</genreform>
+    <genreform source="aat">Submissions.</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <title source="local">My own mag</title>
+    <persname source="naf">Burroughs, William S., 1914-1997</persname>
+    <persname source="naf">Creeley, Robert, 1926-2005</persname>
+    <persname source="naf">Sanders, Ed</persname>
+    <persname source="naf">Nuttall, Jeff</persname>
+    <corpname rules="dacs" source="local">My Own Mag</corpname>
+    <persname source="naf">Musgrove, Keith</persname>
+    <persname source="local">Moore, E.J.</persname>
+    <persname source="naf">Knapp, R. (Rüdiger), 1917-</persname>
+    <persname source="naf">Kearns, Lionel, 1937-</persname>
+    <persname source="local">Winnie, Dennis J.</persname>
+    <persname source="local">Wilcocks, Dick</persname>
+    <persname source="naf">Van Buskirk, Alden</persname>
+    <persname source="naf">Trocchi, Alexander, 1925-1984</persname>
+    <persname source="local">Tonk</persname>
+    <persname source="local">Butler, William</persname>
+    <persname source="local">Byrill, Rab</persname>
+    <persname source="naf">Brownjohn, Alan, 1931-</persname>
+    <persname source="naf">Barry, Peter</persname>
+    <persname rules="dacs" source="local">Brown, Peter Canell</persname>
+    <persname source="local">"B"</persname>
+    <persname source="naf">Horder, John</persname>
+    <persname source="local">Johnson, B. S.</persname>
+    <persname source="naf">Harris, Anthony</persname>
+    <persname source="naf">Hollo, Anselm</persname>
+    <persname source="naf">Ferlinghetti, Lawrence</persname>
+    <persname source="naf">Ginsberg, Allen, 1926-1997</persname>
+    <persname source="naf">Cunliffe, Dave</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref11" level="series"><did><unittitle>Series I: Correspondence and Manuscripts</unittitle></did><scopecontent id="aspace_eb9daf2067662e72392dea01c60dbf38"><head>Scope and Contents note</head><p>Series 1 contains a half box of correspondence and manuscripts written or submitted to Jeff Nuttall, editor of My Own Magazine. The files are arranged alphabetically and chronologically.</p></scopecontent><c id="aspace_ref12" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence and Submissions from: Barry, Peter; Brown, Peter Canell; Brownjohn, Alan</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_417fb942a4225e345534e5fb062045cb" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_8b257ed2f1f70dc4d16be1d4fab7cefc" parent="aspace_417fb942a4225e345534e5fb062045cb" type="Folder">1</container></did></c><c id="aspace_ref13" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence and Submissions from: Burroughs, Williams</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_57fddef53ef09b960ed9447bedeba766" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_c5f26aac9349aee5f61546b24b2039c5" parent="aspace_57fddef53ef09b960ed9447bedeba766" type="Folder">2</container></did></c><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence and Submissions from: Butler, William; Byrill, Rab; "B"</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9888088022c50e369ff27d506545f7a9" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_7b12549e88478d68d8063bb19b6d9826" parent="aspace_9888088022c50e369ff27d506545f7a9" type="Folder">3</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence and Submissions from: Creeley, Robert; Cunliffe, Dave; Ferlinghetti, Lawrence; Ginsberg, Allen</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5addf4eab3babe961d3771b4583c2de0" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_68be377a7258c1947dd7cec8b366a182" parent="aspace_5addf4eab3babe961d3771b4583c2de0" type="Folder">4</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence and Submissions from: Hollo, Anselm; Johnson, B.S.; Kearns, Lionel</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2a24ce691583d649c02772f6d1725587" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_64f753d58f06f2fc221a9b07f6e687ff" parent="aspace_2a24ce691583d649c02772f6d1725587" type="Folder">5</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence and Submissions from: Harris, Anthony; Horder, John; Knapp, R.; Moore, E.J.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_511786f3653af6eba89c3ab749443713" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_548a2e6604c9876ae999f842d9b19aac" parent="aspace_511786f3653af6eba89c3ab749443713" type="Folder">6</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence and Submissions from: Moyse, Arthur; Musgrove, Keith; Nuttall, Jeff; Sanders, Ed</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5cd8365ddeee3c0b1c807b6fdf53930e" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_9109bdad4adadcf15850452ecd68e2b9" parent="aspace_5cd8365ddeee3c0b1c807b6fdf53930e" type="Folder">7</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence and Submissions from: Tonk; Trocchi, Alex</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e2affc7f5516da68b2e680dc56db82f0" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_bf8e2589874615bcdaacf915625ce97e" parent="aspace_e2affc7f5516da68b2e680dc56db82f0" type="Folder">8</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence and Submissions from: VanBuskirk, Alden; with letters from Creeley, John and Ginsberg, Allen</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9c0a7e1fc3799f9e45f05fa048f5e632" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_7ff70d15152d91c2b8098c4d014914e4" parent="aspace_9c0a7e1fc3799f9e45f05fa048f5e632" type="Folder">9</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence and Submissions from: Wilcocks, Dicks; Winnie, Dennis J.:</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ec1d6f675e42fdebf432b00a9e777d34" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_d976fe607d9bea5e81236787b7e0b5c7" parent="aspace_ec1d6f675e42fdebf432b00a9e777d34" type="Folder">10</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence and Submissions from: Unidentified</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f26ef675140bfc0a0f75fb41361bfd82" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_f2767326d13bfeb9d88f3199798e6c22" parent="aspace_f26ef675140bfc0a0f75fb41361bfd82" type="Folder">11</container></did></c></c><c id="aspace_ref24" level="series"><did><unittitle>Series II: Issues</unittitle></did><scopecontent id="aspace_0f4e5edf1e900915690292efc35dc444"><head>Scope and Contents note</head><p>Series II contains ½ box of My Own Magazine issues, including three issues of The Moving Times, edited by William Burroughs.</p></scopecontent><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle><title render="italic">The Burrough</title> #1</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9fcef83076081a78e0763ea3121209e3" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_a0ba538d0d3b129f1863dccec42ecac4" parent="aspace_9fcef83076081a78e0763ea3121209e3" type="Folder">12</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle><title render="italic">The Burrough</title> #2</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_17e4189e01ece2d4c24765bb31c059c9" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_2acbd5ad18e2eae54ccbafdcd3cafeac" parent="aspace_17e4189e01ece2d4c24765bb31c059c9" type="Folder">13</container></did></c><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle><title render="italic">The Moving Times</title> ed. Burroughs, William</unittitle><unitdate datechar="creation">February 10, 1964</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d57125f8ff25a3e318bfd9a5cb31124b" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_0cf15f3818d6c7deefa6885e1f312560" parent="aspace_d57125f8ff25a3e318bfd9a5cb31124b" type="Folder">14</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle><title render="italic">The Moving Times</title> ed. Burroughs, William</unittitle><unitdate datechar="creation">October 9, 1964</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_1ad006c241308279f9efd5ebb064d470" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_6bdeb90be85d296222d115162895ec27" parent="aspace_1ad006c241308279f9efd5ebb064d470" type="Folder">15</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle><title render="italic">The Moving Times</title> ed. Burroughs, William</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7126b6d60b9ffeea4e0b4935c7ec6cf9" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_93836169bc379e6c9f7b4ed1c8c9b68e" parent="aspace_7126b6d60b9ffeea4e0b4935c7ec6cf9" type="Folder">16</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle><title render="italic">My Own Magazine</title></unittitle><unitdate datechar="creation">February 1965</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ed8e43ec0c7db9b035dbc22d63239d01" label="Mixed Materials [31142054900504]" type="Box">1</container><container id="aspace_f8fcb301e1ed09fa7e17857b8eee05f2" parent="aspace_ed8e43ec0c7db9b035dbc22d63239d01" type="Folder">17</container></did></c></c></dsc>
+</archdesc>
+</ead>
