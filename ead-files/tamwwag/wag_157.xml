@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_157">wag_157</eadid><filedesc><titlestmt><titleproper>Guide to the Ted H. Jacobsen Papers <num>WAG.157</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>03/21/2014</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-03-10 09:43:04 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_157">wag_157</eadid><filedesc><titlestmt><titleproper>Guide to the Ted H. Jacobsen Papers <num>WAG.157</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>03/21/2014</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-03-11 08:36:09 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
@@ -19,38 +19,38 @@
     <unitdate datechar="creation" normal="1979/2003" type="inclusive">1979-2003</unitdate>
     <abstract id="aspace_349264f0f1eec41e3e2f9f07d0f29212">Ted H. Jacobsen is a teacher and labor activist from New York City, who served as the Secretary of the New York City Central Labor Council, AFL-CIO until 2007. A member of the United Federation of Teachers (UFT), the New York City Central Labor Council, and numerous other labor organizations in the city, Jacobsen represented nearly 400 affiliated local unions comprised of the city's working men and women. This collection documents his career and activism and consists of memoranda, correspondence, ephemera, photographs, and statistical reports concerning various aspects of labor relations in New York City, including individual unions, coalition groups, labor legislation, and political developments in New York. The collection also contains subject files documenting Jacobsen's involvement in numerous labor-related organizations in the city, including the New York City Central Labor Council and the United Federation of Teachers.</abstract>
     <langmaterial id="aspace_4458db894f463910e51221ba22ebfbd6">Materials are in English.</langmaterial>
-    <container altrender="Record carton" id="aspace_3d158ee186a9a215ab5cf40d29af0ec1" label="Mixed Materials [31142063413184]" type="Box">1</container>
-    <container altrender="Record carton" id="aspace_0f17743c6f16bf8a4ab4289ea14100ee" label="Mixed Materials [31142063413192]" type="Box">2</container>
-    <container altrender="Record carton" id="aspace_b2bc945233cd2f1786e46997925dd6af" label="Mixed Materials [31142063413176]" type="Box">3</container>
-    <container altrender="Record carton" id="aspace_f867af5245ba9f588d0ecdadd3b14e1a" label="Mixed Materials [31142063413234]" type="Box">4</container>
-    <container altrender="Record carton" id="aspace_65f0f3edcc90eab400afd3ffda9df610" label="Mixed Materials [31142063413226]" type="Box">5</container>
-    <container altrender="Record carton" id="aspace_e2c3570032f0571c351f08282114b117" label="Mixed Materials [31142063413200]" type="Box">6</container>
-    <container altrender="Record carton" id="aspace_38b53d1d8173aae27d24a761e2fd60a4" label="Mixed Materials [31142063413242]" type="Box">7</container>
-    <container altrender="Record carton" id="aspace_4b3e2de8905c27c7e34e27d8d2d2d4d7" label="Mixed Materials [31142063413168]" type="Box">8</container>
-    <container altrender="Record carton" id="aspace_685285281e3368cb8b61cc03a1d37cf1" label="Mixed Materials [31142063413267]" type="Box">9</container>
-    <container altrender="Record carton" id="aspace_08533c5928efccee83791a3b17f3671c" label="Mixed Materials [31142063413218]" type="Box">10</container>
-    <container altrender="Record carton" id="aspace_b8152108c5efabdf15fe477c5ea31e56" label="Mixed Materials [31142063413259]" type="Box">11</container>
-    <container altrender="Record carton" id="aspace_59354044cb9be551ce8499ac5f87af2c" label="Mixed Materials [31142063413275]" type="Box">12</container>
-    <container altrender="Record carton" id="aspace_e9c8438b69771552ab3397eea5e2bc7f" label="Mixed Materials [31142063413291]" type="Box">13</container>
-    <container altrender="Record carton" id="aspace_e883758482e252d9412a06873cf7b3d2" label="Mixed Materials [31142062899664]" type="Box">14</container>
-    <container altrender="Record carton" id="aspace_f61eb1e34f4a76c3fc3bc3f2e167ea76" label="Mixed Materials [31142063413317]" type="Box">15</container>
-    <container altrender="Record carton" id="aspace_71dc8dd47bea41b53617668a91fba4ae" label="Mixed Materials [31142063413382]" type="Box">16</container>
-    <container altrender="Record carton" id="aspace_ac0d4065137521d37c65e57a3b4adac4" label="Mixed Materials [31142063413390]" type="Box">17</container>
-    <container altrender="Record carton" id="aspace_f70297d59c5a3160d0b84754aa4d9d38" label="Mixed Materials [31142063413309]" type="Box">18</container>
-    <container altrender="Record carton" id="aspace_9bb4112f4499b86831febca411d8b815" label="Mixed Materials [31142063413358]" type="Box">19</container>
-    <container altrender="Record carton" id="aspace_8120d193dcdacec10d5583f550ab63fc" label="Mixed Materials [31142063413341]" type="Box">20</container>
-    <container altrender="Record carton" id="aspace_c0ac0381716da0e69583e5cd00cf982a" label="Mixed Materials [31142063413374]" type="Box">21</container>
-    <container altrender="Record carton" id="aspace_fb609fd88d78abfa60672e70a244ee66" label="Mixed Materials [31142063413325]" type="Box">22</container>
-    <container altrender="Record carton" id="aspace_b5cfa214f48de59f14aa3fed9583e0c2" label="Mixed Materials [31142063413283]" type="Box">23</container>
-    <container altrender="Record carton" id="aspace_99a45f575514c4032cb48eecb10cbbe4" label="Mixed Materials [31142063413333]" type="Box">24</container>
-    <container altrender="Record carton" id="aspace_b34d99b806f5d92437e226998d8de00d" label="Mixed Materials [31142063413416]" type="Box">25</container>
-    <container altrender="Record carton" id="aspace_7fc8dd58a2fd8782be247a2f152e5454" label="Mixed Materials [31142063413457]" type="Box">26</container>
-    <container altrender="Record carton" id="aspace_4091f81b452270029fca6d25096712b2" label="Mixed Materials [31142063413408]" type="Box">27</container>
-    <container altrender="Record carton" id="aspace_0b93453bc01f8e32aa2df2131c91f226" label="Mixed Materials [31142063413465]" type="Box">28</container>
-    <container altrender="Record carton" id="aspace_6a463baab7f145cc1e31f9a7ae2a6bb8" label="Mixed Materials [31142063413424]" type="Box">29</container>
-    <container altrender="Record carton" id="aspace_6aa525659b1c3e4b5cc76d2fbe8d2912" label="Mixed Materials [31142063413432]" type="Box">30</container>
-    <container altrender="Record carton" id="aspace_ef80539d015e7db8d2eafb53dedab565" label="Mixed Materials [31142063413440]" type="Box">31</container>
-    <container altrender="Card Box - 8.5 x 12.5" id="aspace_24f9daa33dcb3ba17f185804977c88ec" label="Mixed Materials [31142062728590]" type="Box">33</container>
+    <container altrender="Record carton" id="aspace_36d2c6fa0b50725bfaee934ba5682789" label="Mixed Materials [31142063413184]" type="Box">1</container>
+    <container altrender="Record carton" id="aspace_acdfb95ae9400aa7d0f7d9c970c7d080" label="Mixed Materials [31142063413192]" type="Box">2</container>
+    <container altrender="Record carton" id="aspace_7168a8b834108ba33a2d1c3cfb2aca19" label="Mixed Materials [31142063413176]" type="Box">3</container>
+    <container altrender="Record carton" id="aspace_e08dcf90c60a16253e15758d14414565" label="Mixed Materials [31142063413234]" type="Box">4</container>
+    <container altrender="Record carton" id="aspace_d7ee27c3ac554f7768952806fc41e163" label="Mixed Materials [31142063413226]" type="Box">5</container>
+    <container altrender="Record carton" id="aspace_3b36e0931e3a2f38bca517ae370e2582" label="Mixed Materials [31142063413200]" type="Box">6</container>
+    <container altrender="Record carton" id="aspace_6f4f64bf8540e7b59d2007cd78de2462" label="Mixed Materials [31142063413242]" type="Box">7</container>
+    <container altrender="Record carton" id="aspace_84017a364654df377e5ae5db28f0d8c3" label="Mixed Materials [31142063413168]" type="Box">8</container>
+    <container altrender="Record carton" id="aspace_b7960d955fc736bef19ccdaf8fb7cef8" label="Mixed Materials [31142063413267]" type="Box">9</container>
+    <container altrender="Record carton" id="aspace_58d0eacf340168881de593f94092a766" label="Mixed Materials [31142063413218]" type="Box">10</container>
+    <container altrender="Record carton" id="aspace_b2eeed6ae15002552f021d5461ba77e4" label="Mixed Materials [31142063413259]" type="Box">11</container>
+    <container altrender="Record carton" id="aspace_ec4db84403da688ba5006bdde9f4bfaf" label="Mixed Materials [31142063413275]" type="Box">12</container>
+    <container altrender="Record carton" id="aspace_f485e23bb07eca4a0318b12e00dec113" label="Mixed Materials [31142063413291]" type="Box">13</container>
+    <container altrender="Record carton" id="aspace_86666f22d6ae82d6f72b78a1b33bb83f" label="Mixed Materials [31142062899664]" type="Box">14</container>
+    <container altrender="Record carton" id="aspace_62c85d24ee631068dd5039260b5dc1e7" label="Mixed Materials [31142063413317]" type="Box">15</container>
+    <container altrender="Record carton" id="aspace_805318467e31c5766308499ff40ed225" label="Mixed Materials [31142063413382]" type="Box">16</container>
+    <container altrender="Record carton" id="aspace_8c6ecb5db428e27ad6ae46191124cd50" label="Mixed Materials [31142063413390]" type="Box">17</container>
+    <container altrender="Record carton" id="aspace_4d592046d422cc077eb44e2beee29357" label="Mixed Materials [31142063413309]" type="Box">18</container>
+    <container altrender="Record carton" id="aspace_c19862139099316e439a773737aa909e" label="Mixed Materials [31142063413358]" type="Box">19</container>
+    <container altrender="Record carton" id="aspace_d22f898e3d73ebf6cd3198c8b5ddc8af" label="Mixed Materials [31142063413341]" type="Box">20</container>
+    <container altrender="Record carton" id="aspace_21b641181e6706108bfe512b9f4fc0e2" label="Mixed Materials [31142063413374]" type="Box">21</container>
+    <container altrender="Record carton" id="aspace_dd239231a238657762f6523231cf851b" label="Mixed Materials [31142063413325]" type="Box">22</container>
+    <container altrender="Record carton" id="aspace_11f9745a2e561caf4ea5dde2a9687929" label="Mixed Materials [31142063413283]" type="Box">23</container>
+    <container altrender="Record carton" id="aspace_74b7b20c4d83e28e9e68c6f60f39d335" label="Mixed Materials [31142063413333]" type="Box">24</container>
+    <container altrender="Record carton" id="aspace_46780279cd38c28a13f04b54180cb060" label="Mixed Materials [31142063413416]" type="Box">25</container>
+    <container altrender="Record carton" id="aspace_19efaf87bd26728fa3c0fe4488dbbdcc" label="Mixed Materials [31142063413457]" type="Box">26</container>
+    <container altrender="Record carton" id="aspace_27f77b287537ed18ad78702bd46a1ceb" label="Mixed Materials [31142063413408]" type="Box">27</container>
+    <container altrender="Record carton" id="aspace_338345f86e8a96f055240d9093c52202" label="Mixed Materials [31142063413465]" type="Box">28</container>
+    <container altrender="Record carton" id="aspace_819186668026719b88042f47d14c437b" label="Mixed Materials [31142063413424]" type="Box">29</container>
+    <container altrender="Record carton" id="aspace_ec682e642b258007613fa39ac6896c08" label="Mixed Materials [31142063413432]" type="Box">30</container>
+    <container altrender="Record carton" id="aspace_e2773a9bba83b186b9cbfbd90c01636c" label="Mixed Materials [31142063413440]" type="Box">31</container>
+    <container altrender="Card Box - 8.5 x 12.5" id="aspace_fa65b1ccf1effe29d41cc52f83516295" label="Mixed Materials [31142062728590]" type="Box">33</container>
   </did>
   <arrangement id="aspace_7ef87ed12b29c8f5bb473ae00b6693a0">
     <head>Arrangement</head>
@@ -82,6 +82,6 @@
     <corpname authfilenumber="(lccn)n80015593" source="naf">United Federation of Teachers</corpname>
     <persname role="dnr" rules="dacs" source="local">Jacobsen, Ted H.</persname>
   </controlaccess>
-  <dsc><c id="aspace_fb100d25c3b215dc09e69fe35cf055ee" level="file"><did><unittitle>LaFarge Memorial Award for Interracial Justice</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_65e1ec9164139e437eb6307b44deaf6a" label="Mixed Materials [31142062882108]" type="Box">Shared Tamiment 011</container><container id="aspace_1cacc90bbb91d885650ca67df98f2f67" parent="aspace_65e1ec9164139e437eb6307b44deaf6a" type="Folder">8</container></did></c><c id="aspace_41e8fde32aab1c2059b8bb0fba73d6a4" level="file"><did><unittitle>Unprocessed</unittitle><container altrender="OS Flat Box - 15x19x3" id="aspace_ba745c42b38f673b401c2daedada67c0" label="Mixed Materials [31142062729515]" type="Box">34</container><container altrender="Flat OS Box - 16" id="aspace_2209d1db47e474af3fe07e9227bde760" label="Mixed Materials [31142062729523]" type="Box">35</container><container altrender="Record carton" id="aspace_7beab4e43baaa4e6287f318f7a0b9a69" label="Mixed Materials [31142062729531]" type="Box">32</container></did></c></dsc>
+  <dsc><c id="aspace_fb100d25c3b215dc09e69fe35cf055ee" level="file"><did><unittitle>LaFarge Memorial Award for Interracial Justice</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><container altrender="Flat Box 11.75 x 15.5" id="aspace_730ea19d571f6f4b24488ffd4d55c3f8" label="Mixed Materials [31142062882108]" type="Box">Shared Tamiment 011</container><container id="aspace_4613e9f4f3a75032bcc68b3435ea6e61" parent="aspace_730ea19d571f6f4b24488ffd4d55c3f8" type="Folder">8</container></did></c><c id="aspace_41e8fde32aab1c2059b8bb0fba73d6a4" level="file"><did><unittitle>Unprocessed</unittitle><container altrender="OS Flat Box - 15x19x3" id="aspace_55f9339e02dd1384332476a6e8acb8b4" label="Mixed Materials [31142062729515]" type="Box">34</container><container altrender="Flat OS Box - 16" id="aspace_7b47bd611f18c7d818f6c09ed5448651" label="Mixed Materials [31142062729523]" type="Box">35</container><container altrender="Record carton" id="aspace_7362c1bc48e89cd1c1c6312e3b07d92a" label="Mixed Materials [31142062729531]" type="Box">32</container></did></c></dsc>
 </archdesc>
 </ead>

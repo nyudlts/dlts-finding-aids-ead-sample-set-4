@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_006">mss_006</eadid><filedesc><titlestmt><titleproper>Guide to the Black Sun Archive 1965-1969 <num>MSS.006</num></titleproper><author>Tania Friedel, April 1999.</author></titlestmt><editionstmt><p>This version was derived from black sun archive.doc</p></editionstmt><publicationstmt><publisher>Fales Library and Special Collections</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-03-10 09:36:16 -0500</date>.</creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_006">mss_006</eadid><filedesc><titlestmt><titleproper>Guide to the Black Sun Archive 1965-1969 <num>MSS.006</num></titleproper><author>Tania Friedel, April 1999.</author></titlestmt><editionstmt><p>This version was derived from black sun archive.doc</p></editionstmt><publicationstmt><publisher>Fales Library and Special Collections</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-03-11 08:30:46 -0500</date>.</creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
   <did>
     <repository>
       <corpname>Fales Library and Special Collections</corpname>
@@ -69,7 +69,7 @@ Identification of item,  date (if known); Black Sun Archive; MSS 006; box number
 
 <lb/>Aldan, Daisy 
 
-<lb/>Antin, David</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_832c88667cbcee149f818b00092e6f67" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_c6040f72b128458b0fe539d95c913c91" parent="aspace_832c88667cbcee149f818b00092e6f67" type="Folder">1</container></did></c><c id="aspace_ref13" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence B</emph>: 
+<lb/>Antin, David</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_6411e963458ac547258ac497339d88e6" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_2278365360105be93e58ceba34bca7a7" parent="aspace_6411e963458ac547258ac497339d88e6" type="Folder">1</container></did></c><c id="aspace_ref13" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence B</emph>: 
 <lb/>Bainter, Karen 
 
 <lb/>Berkley, Constance E. 
@@ -82,7 +82,7 @@ Identification of item,  date (if known); Black Sun Archive; MSS 006; box number
   
 <lb/>Boothe, Anna 
 
-<lb/>Boyd, Sue Abbott</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f8b94de1af2aaae43f9f8ef13128bdb8" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_671393c2706c1457dc40216423e40738" parent="aspace_f8b94de1af2aaae43f9f8ef13128bdb8" type="Folder">2</container></did></c><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence C</emph>: 
+<lb/>Boyd, Sue Abbott</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9d0648afd0cdb47564323d5c0a2dda13" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_49ada86f7fc3d356a9d4b628bb0b0e14" parent="aspace_9d0648afd0cdb47564323d5c0a2dda13" type="Folder">2</container></did></c><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence C</emph>: 
 
 <lb/>Callahan, James D. 
 
@@ -104,7 +104,7 @@ Identification of item,  date (if known); Black Sun Archive; MSS 006; box number
 
 <lb/>Cornish, Samuel 
 
-<lb/>Curry, Andrew</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_328aefb0b7cbbb8c3783067b027fbb70" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_203f5af0528d0a98cadbe9420ebbd362" parent="aspace_328aefb0b7cbbb8c3783067b027fbb70" type="Folder">3</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence D</emph>: 
+<lb/>Curry, Andrew</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_1cd3559cc447981120dfc965787fd456" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_8e2c5451abc80b096eacc6efcb040973" parent="aspace_1cd3559cc447981120dfc965787fd456" type="Folder">3</container></did></c><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence D</emph>: 
 
 <lb/>Dacey, Philip 
 
@@ -120,7 +120,7 @@ Identification of item,  date (if known); Black Sun Archive; MSS 006; box number
 
 <lb/>Deutsch, Len 
 
-<lb/>Dobel, Kenneth</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_0477b4514da5f9e17520aa254bbbdbfc" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_dbbb30e16bec1b72a0fd8d78f1ac1765" parent="aspace_0477b4514da5f9e17520aa254bbbdbfc" type="Folder">4</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence F-G</emph>: 
+<lb/>Dobel, Kenneth</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2aea19e3ccf57189abf599cf28f7d7ce" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_a53a5c206f69a090bf63e4a8d10ba541" parent="aspace_2aea19e3ccf57189abf599cf28f7d7ce" type="Folder">4</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence F-G</emph>: 
 
 <lb/>Foster, Donald 
 
@@ -138,7 +138,7 @@ Identification of item,  date (if known); Black Sun Archive; MSS 006; box number
 
 <lb/>Gross, Ronald 
 
-<lb/>Grossinger, Richard</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_109c9747a3685a1fcef1308ff910c740" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_dbaf59ec126faaaabb144a94443572a9" parent="aspace_109c9747a3685a1fcef1308ff910c740" type="Folder">5</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence H-K</emph>: 
+<lb/>Grossinger, Richard</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_fac62f593538e84b588840a1570f41b6" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_d761e893f4b3f23b8421d820564a05df" parent="aspace_fac62f593538e84b588840a1570f41b6" type="Folder">5</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence H-K</emph>: 
 
 <lb/>Harsch, Gene 
 
@@ -158,9 +158,9 @@ Identification of item,  date (if known); Black Sun Archive; MSS 006; box number
 
 <lb/>Kantrowitz, Arnold 
 
-<lb/>Kler, Frank</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_767948ca03d977112e6aec17a7b0e3e3" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_dd461a7934b41b3595abd17d354f8861" parent="aspace_767948ca03d977112e6aec17a7b0e3e3" type="Folder">6</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence L</emph>: 
+<lb/>Kler, Frank</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_78624e2e572340f29be82371070fa4ca" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_3530b039b5d2a17ced5cf132e6b5e054" parent="aspace_78624e2e572340f29be82371070fa4ca" type="Folder">6</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence L</emph>: 
 
-<lb/>Locke, Duane</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_7dd6affff8b7c5fdc8c4084a2881cc35" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_2d88fff32075448e5a1e11d37058b94d" parent="aspace_7dd6affff8b7c5fdc8c4084a2881cc35" type="Folder">7</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence M</emph>: 
+<lb/>Locke, Duane</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_1411b2fe83aecc4a8e57bbd55e1338c6" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_27af3c139486ac65e9cc68250aa6fad1" parent="aspace_1411b2fe83aecc4a8e57bbd55e1338c6" type="Folder">7</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence M</emph>: 
 
 <lb/>McGirt, William 
 
@@ -180,7 +180,7 @@ Identification of item,  date (if known); Black Sun Archive; MSS 006; box number
 
 <lb/>Morris, Richard 
 
-<lb/>Murphy, Mike</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9158a01a3cb966d598b575491770878b" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_a725907d38cc4ead4164742e1bb65e05" parent="aspace_9158a01a3cb966d598b575491770878b" type="Folder">8</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence N-P</emph>: 
+<lb/>Murphy, Mike</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_966df2caf9f9fcb695eae2892ca08201" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_87dbd8204349053e3af5c1e9f31dd9e2" parent="aspace_966df2caf9f9fcb695eae2892ca08201" type="Folder">8</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence N-P</emph>: 
 
 <lb/>Nelson, Stanley 
 
@@ -190,9 +190,9 @@ Identification of item,  date (if known); Black Sun Archive; MSS 006; box number
 
 <lb/>Odam, Joyce 
 
-<lb/>Powel, Clarence Alva</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c3d9c0a22925561a54a8b5bb2b6e63f0" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_d0fee80ce674a93ed1c63cff81646fd8" parent="aspace_c3d9c0a22925561a54a8b5bb2b6e63f0" type="Folder">9</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence P</emph>: 
+<lb/>Powel, Clarence Alva</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_19f66d26d21638743837ec7bd5ade545" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_0f537d01171025a5c461fec1105cb36e" parent="aspace_19f66d26d21638743837ec7bd5ade545" type="Folder">9</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence P</emph>: 
 
-<lb/>Poetry Readings and Conferences</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_269a1a593c54ccc2bb71908ac146ea26" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_8ba48e9f7785caed44c7adfec4e3eaa6" parent="aspace_269a1a593c54ccc2bb71908ac146ea26" type="Folder">10</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence R-S</emph>: 
+<lb/>Poetry Readings and Conferences</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_98d74a1fa2b1d6f64a951493f4364dbf" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_88269c72716efbbc339b36231875a0bd" parent="aspace_98d74a1fa2b1d6f64a951493f4364dbf" type="Folder">10</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence R-S</emph>: 
 
 <lb/>Randall, Margaret 
 
@@ -212,9 +212,9 @@ Identification of item,  date (if known); Black Sun Archive; MSS 006; box number
 
 <lb/>Stalzer, David 
 
-<lb/>Steffanyssen, Mark</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_7f848b44f7b0bfd21c1b1f9699a5ba9f" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_6b99ed8cf1d8a988a3632833e168a792" parent="aspace_7f848b44f7b0bfd21c1b1f9699a5ba9f" type="Folder">11</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence S</emph>: 
+<lb/>Steffanyssen, Mark</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_32ff80839dcafbb0892fb661fb52f574" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_8430fdae72209fd7c88205142a852ca3" parent="aspace_32ff80839dcafbb0892fb661fb52f574" type="Folder">11</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence S</emph>: 
 
-<lb/>Small Magazines and Presses</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_464df8aa95aeca8f4fd95c974c657e1f" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_be71d9a35d8a0fb6ebc99b80502f0589" parent="aspace_464df8aa95aeca8f4fd95c974c657e1f" type="Folder">12</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence T-Z</emph>: 
+<lb/>Small Magazines and Presses</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d7e76f0dabe8b14e543605a90000906d" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_e92a0c51e49cc9d7f11fb45b4233659a" parent="aspace_d7e76f0dabe8b14e543605a90000906d" type="Folder">12</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Correspondence T-Z</emph>: 
 
 <lb/>Thiel, Paul 
 
@@ -244,7 +244,7 @@ Identification of item,  date (if known); Black Sun Archive; MSS 006; box number
 
 <lb/>Woessner, Warren 
 
-<lb/>Wolvin, Fred</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_7bd8cc3837744446adf6c24d33f56966" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_c48df07d9b0bed94177cb8087bd16077" parent="aspace_7bd8cc3837744446adf6c24d33f56966" type="Folder">13</container></did></c></c><c id="aspace_ref26" level="series"><did><unittitle>Series II: Manuscripts</unittitle></did><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Manuscript: Vol. 1, No. 1-4:</emph>(includes index of complete contents at the end of the folder.) 
+<lb/>Wolvin, Fred</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8a747d9a3423ebb2aacf4bced0e1360d" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_4f03d9c2d15949e533786d03f7f1ab60" parent="aspace_8a747d9a3423ebb2aacf4bced0e1360d" type="Folder">13</container></did></c></c><c id="aspace_ref26" level="series"><did><unittitle>Series II: Manuscripts</unittitle></did><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Manuscript: Vol. 1, No. 1-4:</emph>(includes index of complete contents at the end of the folder.) 
 
 <lb/>Tucker, Harvey 
 
@@ -258,12 +258,12 @@ Identification of item,  date (if known); Black Sun Archive; MSS 006; box number
 
 <lb/>Hull, James 
 
-<lb/>etc.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_59c0ef40e4e0280ad01596052f6d78a4" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_a9eb1fbdb6f18ec726d61762925a9658" parent="aspace_59c0ef40e4e0280ad01596052f6d78a4" type="Folder">14</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Manuscript: Vol. 2, No. 1-3</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_56f1012e11296ee8d1ee4f9e17764d72" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_3e99c036028217cbea7669cf7a6253ed" parent="aspace_56f1012e11296ee8d1ee4f9e17764d72" type="Folder">15</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Manuscript:</emph><emph render="italic">And Where Does the Circle End Beginning</emph>: 
+<lb/>etc.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9cea50b43fa8fb7cea98f25385248f86" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_c88a65b11ea59219002b420de17bdf09" parent="aspace_9cea50b43fa8fb7cea98f25385248f86" type="Folder">14</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Manuscript: Vol. 2, No. 1-3</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_b5454ef63dba8eebc39ebc9f61f4ab11" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_6094f99c85aaffaa53f184783f82f4e2" parent="aspace_b5454ef63dba8eebc39ebc9f61f4ab11" type="Folder">15</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Manuscript:</emph><emph render="italic">And Where Does the Circle End Beginning</emph>: 
 
-Tucker, Harvey</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3845193603791fbb5f4be00addc769db" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_2a1635d7fff555dd8a16d596e202f947" parent="aspace_3845193603791fbb5f4be00addc769db" type="Folder">16</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Manuscript:</emph><emph render="italic">The Destruction of Trinities</emph>: 
+Tucker, Harvey</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_bd507d6f5a8d97eb8e89c24e424dcccf" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_bf378afc99ca4adf5d83ac059b4ac996" parent="aspace_bd507d6f5a8d97eb8e89c24e424dcccf" type="Folder">16</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Manuscript:</emph><emph render="italic">The Destruction of Trinities</emph>: 
 
-Tucker, Harvey</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_13193c6f6c2161653043513cb0b1874d" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_ef7d3674194ac48d931db59deba9d033" parent="aspace_13193c6f6c2161653043513cb0b1874d" type="Folder">17</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Manuscript:</emph><emph render="italic">Maelstrom</emph>[Book 1], <emph render="italic">The Solitary Dreamer</emph>[Book II]: 
+Tucker, Harvey</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_6955190596710142e7c3b1a7ae53b630" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_c6d85def04a78db9415406283fb0247a" parent="aspace_6955190596710142e7c3b1a7ae53b630" type="Folder">17</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle><emph render="bold">Manuscript:</emph><emph render="italic">Maelstrom</emph>[Book 1], <emph render="italic">The Solitary Dreamer</emph>[Book II]: 
 
-Tucker, Harvey</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f8ac32c31e8d9d25b12d2f80d1dca8e3" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_f6b45b12b0ac3820ce6e5644900159c7" parent="aspace_f8ac32c31e8d9d25b12d2f80d1dca8e3" type="Folder">18</container></did></c></c></dsc>
+Tucker, Harvey</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_6d13f71f63d0a9df499b2a2afa170b5b" label="Mixed Materials [31142054862944]" type="Box">1</container><container id="aspace_4d889dca4901e47cf95d748575d82df3" parent="aspace_6d13f71f63d0a9df499b2a2afa170b5b" type="Folder">18</container></did></c></c></dsc>
 </archdesc>
 </ead>
